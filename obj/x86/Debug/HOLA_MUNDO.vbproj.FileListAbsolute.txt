@@ -1,0 +1,9 @@
+C:\Users\mec\documents\visual studio 2010\Projects\HOLA_MUNDO\bin\Debug\HOLA_MUNDO.exe
+C:\Users\mec\documents\visual studio 2010\Projects\HOLA_MUNDO\bin\Debug\HOLA_MUNDO.pdb
+C:\Users\mec\documents\visual studio 2010\Projects\HOLA_MUNDO\bin\Debug\HOLA_MUNDO.xml
+C:\Users\mec\documents\visual studio 2010\Projects\HOLA_MUNDO\obj\x86\Debug\HOLA_MUNDO.FrmHolaMundo.resources
+C:\Users\mec\documents\visual studio 2010\Projects\HOLA_MUNDO\obj\x86\Debug\HOLA_MUNDO.Resources.resources
+C:\Users\mec\documents\visual studio 2010\Projects\HOLA_MUNDO\obj\x86\Debug\HOLA_MUNDO.vbproj.GenerateResource.Cache
+C:\Users\mec\documents\visual studio 2010\Projects\HOLA_MUNDO\obj\x86\Debug\HOLA_MUNDO.exe
+C:\Users\mec\documents\visual studio 2010\Projects\HOLA_MUNDO\obj\x86\Debug\HOLA_MUNDO.xml
+C:\Users\mec\documents\visual studio 2010\Projects\HOLA_MUNDO\obj\x86\Debug\HOLA_MUNDO.pdb
